@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_request_type</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-08-18 14:47:42</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>a6e8386ddb8ef7080b9d21c405961963</instance_id>
+        <instance_name>dev87301</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_request_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_request_type</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-08-18 14:47:42</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1828161538</payload_hash>
+        <record_name>x_58872_needit_needit.u_request_type</record_name>
+        <reverted_from/>
+        <source>c95bb1842fb25010eaa65d372799b686</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>daniela.gudima@endava.com</sys_created_by>
+        <sys_created_on>2020-08-18 14:47:42</sys_created_on>
+        <sys_id>9aaa83842f765010eaa65d372799b6b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174020a4a2a0000001</sys_recorded_at>
+        <sys_updated_by>daniela.gudima@endava.com</sys_updated_by>
+        <sys_updated_on>2020-08-18 14:47:42</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>16aa8384d0765010cc0f71babf29b6b9</update_guid>
+        <update_guid_history>16aa8384d0765010cc0f71babf29b6b9:1828161538,deaa83847a765010b1f8d218a68852b5:1366734649,5eaa8384617650109494ff9fbf2de0b2:-924823180,daaa838478765010a798eb80d2510daf:359726012,e03ceec0d83650103b0b19c18e4c6e3b:998550401</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniela.gudima@endava.com</sys_created_by>
+        <sys_created_on>2020-08-18 14:47:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>c8ba07842f765010eaa65d372799b64a</sys_id>
+        <sys_metadata>c8ba07842f765010eaa65d372799b64a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_request_type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_request_type">9aaa83842f765010eaa65d372799b6b9</sys_update_version>
+        <sys_updated_by>daniela.gudima@endava.com</sys_updated_by>
+        <sys_updated_on>2020-08-18 14:47:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
