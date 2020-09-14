@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Active NeedIt Requests by Type">5dde71342fd31010eaa65d372799b646</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>daniela.gudima@endava.com</sys_created_by>
+        <sys_created_on>2020-09-14 13:43:15</sys_created_on>
+        <sys_id>d1de71342fd31010eaa65d372799b647</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5dde71342fd31010eaa65d372799b646</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_report_users_groups_d1de71342fd31010eaa65d372799b647</sys_update_name>
+        <sys_updated_by>daniela.gudima@endava.com</sys_updated_by>
+        <sys_updated_on>2020-09-14 13:43:15</sys_updated_on>
+        <user_id display_value="Daniela Gudima">313925f32f2a1010eaa65d372799b699</user_id>
+    </sys_report_users_groups>
+</record_update>
